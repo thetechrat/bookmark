@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Bookmarks",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["tabs"],
+  "description": "This is a simple extension to bookmark links and save minor information for later while browsing through the web."
+}
